@@ -20,8 +20,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-
-
 # TON Wallet App with Next.js
 
 This is a Next.js 13 TypeScript project that connects to the **TonKeeper** wallet on the **TON TestNet** network, allowing users to view their wallet balance and send TON tokens to other wallets.
@@ -65,9 +63,9 @@ This is a Next.js 13 TypeScript project that connects to the **TonKeeper** walle
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ton-wallet-app.git
-   cd ton-wallet-app
+   git clone https://github.com/Daniel-TheProgrammer/ton-wallet-app
+   ```
 
-##  Environment Variables
+## Environment Variables
+
     ```NEXT_PUBLIC_DOMAIN=http://localhost:3001
-    
